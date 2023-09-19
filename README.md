@@ -1,1 +1,1 @@
-# JavaScript Game Development Course for Beginners
+JavaScript Game Development Course for Beginners
